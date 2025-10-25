@@ -1,0 +1,52 @@
+{
+    "name": "Qianyu",
+    "prefix": "!qy",
+    "versions": {
+        "0.1": "Project initialization.",
+        "0.2.1": "Fetches Bilibili.",
+        "0.2.2": "Color updated.",
+        "0.2.3": "Added listener message.",
+        "0.3.1": "Content type 中奖通知 are ignored.",
+        "0.3.2": "Content parsing forward() is fixed.",
+        "0.4.1": "Qianyu.setStatus() is added."
+    },
+    "platforms": {
+        "bilibili": {
+            "userid": "1265652806",
+            "delay": 60000,
+            "postchannel": [
+                "1412835961577934960",
+                "1412948761830883358"
+            ],
+            "debugchannel": "1307931811325939722"
+        },
+        "twitter": {
+            "userid": "AKEndfield",
+            "delay": 60000,
+            "postchannel": [
+                "1412835961577934960",
+                "1412948761830883358"
+            ],
+            "debugchannel": "1307931811325939722"
+        }
+    },
+    "test_platforms": {
+        "bilibili": {
+            "userid": "551987502",
+            "delay": 10000,
+            "postchannel": [
+                "1412835961577934960"
+            ],
+            "debugchannel": "1307931811325939722"
+        },
+        "twitter": {
+            "username": "nh_chenq",
+            "delay": 960000,
+            "postchannel": [
+                "1412835961577934960"
+            ],
+            "debugchannel": "1307931811325939722"
+        }
+    }
+
+}
