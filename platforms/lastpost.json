@@ -6,19 +6,19 @@
     "card": {
       "desc": {
         "uid": 1265652806,
-        "type": 1,
-        "rid": 1117878655987482600,
-        "acl": 1024,
-        "view": 1,
-        "repost": 0,
+        "type": 4308,
+        "rid": 652822188961085300,
+        "acl": 0,
+        "view": 10952,
+        "repost": 2,
         "comment": 0,
-        "like": 1,
+        "like": 289,
         "is_liked": 0,
-        "dynamic_id": 1117878655987482600,
-        "timestamp": 1759114807,
-        "pre_dy_id": 1115652149270806500,
-        "orig_dy_id": 1115652149270806500,
-        "orig_type": 2,
+        "dynamic_id": 1129881491883425800,
+        "timestamp": 1761909435,
+        "pre_dy_id": 0,
+        "orig_dy_id": 0,
+        "orig_type": 0,
         "user_profile": {
           "info": {
             "uid": 1265652806,
@@ -72,73 +72,29 @@
         "spec_type": 0,
         "uid_type": 1,
         "stype": 0,
-        "r_type": 1,
+        "r_type": 0,
         "inner_id": 0,
         "status": 1,
-        "dynamic_id_str": "1117878655987482663",
-        "pre_dy_id_str": "1115652149270806531",
-        "orig_dy_id_str": "1115652149270806531",
-        "rid_str": "1117878655987482663",
-        "origin": {
-          "uid": 1265652806,
-          "type": 2,
-          "rid": 368181436,
-          "acl": 0,
-          "view": 0,
-          "repost": 0,
-          "comment": 0,
-          "like": 0,
-          "is_liked": 0,
-          "dynamic_id": 1115652149270806500,
-          "timestamp": 0,
-          "pre_dy_id": 0,
-          "orig_dy_id": 0,
-          "orig_type": 0,
-          "user_profile": null,
-          "spec_type": 0,
-          "uid_type": 1,
-          "stype": 0,
-          "r_type": 0,
-          "inner_id": 0,
-          "status": 0,
-          "dynamic_id_str": "1115652149270806531",
-          "pre_dy_id_str": "",
-          "orig_dy_id_str": "",
-          "rid_str": "368181436",
-          "origin": null,
-          "bvid": "",
-          "previous": null
-        },
+        "dynamic_id_str": "1129881491883425800",
+        "pre_dy_id_str": "0",
+        "orig_dy_id_str": "0",
+        "rid_str": "652822188961085281",
+        "origin": null,
         "bvid": "",
         "previous": null
       },
-      "card": "{\"user\":{\"uid\":1265652806,\"uname\":\"明日方舟终末地\",\"face\":\"https://i2.hdslb.com/bfs/face/cfa313e83d4395a6fe827da1ef947db0fb11fd69.jpg\"},\"item\":{\"rp_id\":1117878655987482663,\"uid\":1265652806,\"content\":\"恭喜@小白苏打@_杰斐逊_@oFOOLo等10位同学中奖，已私信通知，详情请点击抽奖查看。\",\"ctrl\":\"\",\"reply\":0,\"orig_type\":2,\"orig_dy_id\":1115652149270806531,\"pre_dy_id\":1115652149270806531,\"miss\":0,\"tips\":\"\"},\"origin\":\"{\\\"item\\\":{\\\"id\\\":368181436,\\\"description\\\":\\\"互动抽奖 #明日方舟终末地# \\\\n鎏金色的时光浸染了真实而永不褪色的记忆，衣袂翻飞间跃动着蜜糖色的光辉。\\\\n「管理员，是有新的信件吗？放心交给我吧！」\\\\n\\\\n——————————\\\\n关注@明日方舟终末地 并转发此动态，我们将于9月29日抽取10位管理员分别送出【明日方舟：终末地 - 表情包相框立牌-第一弹】一份。\\\\n游戏预约请前往：网页链接\\\",\\\"pictures\\\":[{\\\"img_height\\\":1080,\\\"img_width\\\":1920,\\\"img_src\\\":\\\"http://i0.hdslb.com/bfs/new_dyn/f7053ae78c1afef5695566f4d2a683d41265652806.png\\\",\\\"img_size\\\":3796.4814453125}],\\\"pictures_count\\\":1,\\\"reply\\\":3210,\\\"upload_time\\\":1758596408},\\\"user\\\":{\\\"uid\\\":1265652806,\\\"name\\\":\\\"明日方舟终末地\\\",\\\"head_url\\\":\\\"https://i2.hdslb.com/bfs/face/cfa313e83d4395a6fe827da1ef947db0fb11fd69.jpg\\\",\\\"vip\\\":{\\\"type\\\":2,\\\"due_date\\\":1774195200000,\\\"status\\\":1,\\\"theme_type\\\":0,\\\"label\\\":{\\\"path\\\":\\\"http://i0.hdslb.com/bfs/vip/label_annual.png\\\",\\\"text\\\":\\\"年度大会员\\\",\\\"label_theme\\\":\\\"annual_vip\\\",\\\"text_color\\\":\\\"\\\",\\\"bg_style\\\":0,\\\"bg_color\\\":\\\"\\\",\\\"border_color\\\":\\\"\\\"},\\\"avatar_subscript\\\":1,\\\"nickname_color\\\":\\\"#FB7299\\\",\\\"vip_pay_type\\\":0}}}\",\"origin_extend_json\":\"{\\\"from\\\":{\\\"from\\\":\\\"create.dynamic.web\\\",\\\"emoji_type\\\":1},\\\"ctrl\\\":[{\\\"data\\\":\\\"4\\\",\\\"length\\\":4,\\\"location\\\":0,\\\"type\\\":2,\\\"type_id\\\":\\\"\\\",\\\"prefix_icon\\\":\\\"\\\"},{\\\"data\\\":\\\"1265652806\\\",\\\"length\\\":8,\\\"location\\\":88,\\\"type\\\":1,\\\"type_id\\\":\\\"\\\",\\\"prefix_icon\\\":\\\"\\\"}],\\\"lott\\\":{\\\"lottery_id\\\":379205}}\",\"origin_user\":{\"info\":{\"uid\":1265652806,\"uname\":\"明日方舟终末地\",\"face\":\"https://i2.hdslb.com/bfs/face/cfa313e83d4395a6fe827da1ef947db0fb11fd69.jpg\"},\"card\":{\"official_verify\":{\"type\":-1}},\"vip\":{\"vipType\":2,\"vipDueDate\":1774195200000,\"dueRemark\":\"\",\"accessStatus\":0,\"vipStatus\":1,\"vipStatusWarn\":\"\",\"themeType\":0,\"label\":{\"path\":\"http://i0.hdslb.com/bfs/vip/label_annual.png\",\"text\":\"年度大会员\",\"label_theme\":\"annual_vip\",\"text_color\":\"#FFFFFF\",\"bg_style\":1,\"bg_color\":\"#FB7299\",\"border_color\":\"\"},\"avatar_subscript\":1,\"nickname_color\":\"#FB7299\",\"role\":3,\"avatar_subscript_url\":\"\"},\"pendant\":{\"pid\":0,\"name\":\"\",\"image\":\"\",\"expire\":0,\"image_enhance\":\"\",\"image_enhance_frame\":\"\"},\"rank\":\"10000\",\"sign\":\"跨越边境 直至前线\",\"level_info\":{\"current_level\":6,\"current_min\":0,\"current_exp\":0,\"next_exp\":\"\"}}}",
-      "extend_json": "{\"from\":{\"from\":\"create.lottery\",\"emoji_type\":1},\"ctrl\":[{\"data\":\"1425960794\",\"length\":5,\"location\":2,\"type\":1,\"type_id\":\"\",\"prefix_icon\":\"\"},{\"data\":\"8060967\",\"length\":6,\"location\":7,\"type\":1,\"type_id\":\"\",\"prefix_icon\":\"\"},{\"data\":\"517353049\",\"length\":7,\"location\":13,\"type\":1,\"type_id\":\"\",\"prefix_icon\":\"\"}],\"lott\":null}",
+      "card": "{\"live_play_info\":{\"area_id\":848,\"area_name\":\"明日方舟：终末地\",\"cover\":\"https://i0.hdslb.com/bfs/live/new_room_cover/70eb5087942e7954d3cd994f9fd0eed3d3cdc2fa.jpg\",\"link\":\"https://live.bilibili.com/1921300321?accept_quality=%5B10000%2C400%2C250%5D\\u0026area_id=848\\u0026av1_current_qn=0\\u0026broadcast_type=0\\u0026current_qn=400\\u0026current_quality=400\\u0026expected_hdr_type=0\\u0026expected_qn=400\\u0026h264_current_qn=400\\u0026h265_current_qn=400\\u0026is_room_feed=1\\u0026live_play_network=other\\u0026master_url=https%3A%2F%2Fapi.live.bilibili.com%2Fxlive%2Fplay-gateway%2Fmaster%2Furl%3Fcid%3D1921300321%26mid%3D551987502%26pt%3Dweb%26p2p_type%3D-1%26net%3D3%26free_type%3D0%26build%3D0%26feature%3D2%26qn%3D400%26drm_type%3D0%26cam_id%3D0\\u0026p2p_type=-1\\u0026parent_area_id=3\\u0026playurl_av1=\\u0026playurl_h264=http%3A%2F%2Fd1--ov-gotcha07.bilivideo.com%2Flive-bvc%2F712746%2Flive_1265652806_30223949_4000.flv%3Fexpires%3D1761913300%26len%3D0%26oi%3D2598068857%26pt%3Dweb%26qn%3D400%26trid%3D10005e1e265e3ef11274674a701f3a69049b%26bmt%3D1%26sigparams%3Dcdn%2Cexpires%2Clen%2Coi%2Cpt%2Cqn%2Ctrid%2Cbmt%26cdn%3Dov-gotcha07%26sign%3D782ab8edf6542a72e79619ba180560d6%26site%3Db4a03dd60a15ceab81363823377f5c72%26free_type%3D0%26mid%3D551987502%26sche%3Dban%26trace%3D0%26isp%3Dother%26rg%3Dother%26pv%3Dother%26hot_cdn%3D909773%26long_ab_flag%3Dlive_default_longitudinal%26codec%3D0%26long_ab_flag_value%3Dtest%26strategy_id%3D36%26source%3Dpuv3_batch%26sl%3D10%26deploy_env%3Dprod%26long_ab_id%3D45%26expected_qn%3D400%26ld%3Dyxlg%26hdr_type%3D0%26strategy_version%3Dlatest%26p2p_type%3D-1%26suffix%3D4000%26origin_bitrate%3D1143%26strategy_types%3D0%2C1%26sk%3Da32b0722296092418cbe9eb15603f655%26strategy_ids%3D36%2C25%26strategy_type%3D0%26media_type%3D0%26info_source%3Dhot_cache%26pp%3D%26score%3D1%26vd%3Dbc%26src%3Dpuv3%26order%3D1\\u0026playurl_h265=http%3A%2F%2Fd1--ov-gotcha07.bilivideo.com%2Flive-bvc%2F197250%2Flive_1265652806_30223949_hevc.flv%3Fexpires%3D1761913300%26len%3D0%26oi%3D2598068857%26pt%3Dweb%26qn%3D400%26trid%3D10005e1e265e3ef11274674a701f3a69049b%26bmt%3D1%26sigparams%3Dcdn%2Cexpires%2Clen%2Coi%2Cpt%2Cqn%2Ctrid%2Cbmt%26cdn%3Dov-gotcha07%26sign%3D6092990c0fd5bb439c3aec9ac45d176b%26site%3Db4a03dd60a15ceab81363823377f5c72%26free_type%3D0%26mid%3D551987502%26sche%3Dban%26trace%3D0%26isp%3Dother%26rg%3Dother%26pv%3Dother%26long_ab_flag%3Dlive_default_longitudinal%26sl%3D10%26strategy_id%3D36%26strategy_ids%3D36%2C25%26expected_qn%3D400%26score%3D1%26p2p_type%3D-1%26suffix%3Dhevc%26hdr_type%3D0%26long_ab_id%3D45%26long_ab_flag_value%3Dtest%26deploy_env%3Dprod%26strategy_types%3D0%2C1%26info_source%3Dhot_cache%26origin_bitrate%3D1363%26sk%3D17a5e6f699a8048167fda2e6aeb13f16%26pp%3D%26hot_cdn%3D909773%26strategy_version%3Dlatest%26source%3Dpuv3_batch%26ld%3Dyxlg%26codec%3D1%26media_type%3D0%26strategy_type%3D0%26vd%3Dbc%26src%3Dpuv3%26order%3D1\\u0026qn_desc_more_ab=1\\u0026quality_description=%5B%7B%22qn%22%3A10000%2C%22desc%22%3A%22%E5%8E%9F%E7%94%BB%22%2C%22hdr_type%22%3A0%2C%22media_base_desc%22%3A%7B%22detail_desc%22%3A%7B%22desc%22%3A%221080P+%E5%8E%9F%E7%94%BB%22%2C%22tag%22%3A%5B%22%E9%AB%98%E5%B8%A7%E7%8E%87%22%5D%7D%2C%22brief_desc%22%3A%7B%22desc%22%3A%221080P%22%2C%22badge%22%3A%22%E5%8E%9F%E7%94%BB%22%7D%7D%7D%2C%7B%22qn%22%3A400%2C%22desc%22%3A%22%E8%93%9D%E5%85%89%22%2C%22hdr_type%22%3A0%2C%22media_base_desc%22%3A%7B%22detail_desc%22%3A%7B%22desc%22%3A%221080P+%E8%93%9D%E5%85%89%22%7D%2C%22brief_desc%22%3A%7B%22desc%22%3A%221080P%22%7D%7D%7D%2C%7B%22qn%22%3A250%2C%22desc%22%3A%22%E8%B6%85%E6%B8%85%22%2C%22hdr_type%22%3A0%2C%22media_base_desc%22%3A%7B%22detail_desc%22%3A%7B%22desc%22%3A%22720P+%E8%B6%85%E6%B8%85%22%7D%2C%22brief_desc%22%3A%7B%22desc%22%3A%22720P%22%7D%7D%7D%5D\",\"live_id\":652822188961085281,\"live_screen_type\":0,\"live_start_time\":1761909097,\"live_status\":1,\"online\":880325,\"parent_area_id\":3,\"parent_area_name\":\"手游\",\"play_type\":0,\"room_id\":1921300321,\"room_type\":0,\"title\":\"「全面测试」前瞻特别节目\",\"uid\":1265652806,\"watched_show\":\"12.5万人看过\"},\"style\":1,\"type\":1}",
+      "extend_json": "{\"from\":{\"from\":\"create.live_rcmd\",\"emoji_type\":1},\"ctrl\":null,\"lott\":null}",
       "display": {
-        "origin": {
-          "origin": null,
-          "usr_action_txt": "",
-          "relation": {
-            "status": 2,
-            "is_follow": 1,
-            "is_followed": 0
-          },
-          "live_info": null,
-          "emoji_info": {
-            "emoji_details": null
-          },
-          "highlight": null
-        },
-        "usr_action_txt": "",
+        "origin": null,
+        "usr_action_txt": "直播了",
         "relation": {
           "status": 2,
           "is_follow": 1,
           "is_followed": 0
         },
         "live_info": null,
-        "emoji_info": {
-          "emoji_details": null
-        },
+        "emoji_info": null,
         "highlight": null
       }
     }
